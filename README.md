@@ -29,7 +29,7 @@ With a strong foundation in <strong>HTML</strong>, <strong>CSS</strong>, and <st
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/somya827) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/somya-shukla0827) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:somyashukla2702@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/somya0827) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/somya-shukla0827) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:somyashukla2702@gmail.com) 
 <br>
 
 # 💻 Tech Stack:
